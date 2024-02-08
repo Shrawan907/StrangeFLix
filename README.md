@@ -31,3 +31,7 @@ AWS S3 (VideoDatabase)
 Sqlite (User Database)
 OAuth
 And other API’S
+
+
+![strangeFlix](https://github.com/Shrawan907/StrangeFLix/assets/54719145/f761ddf6-5dfb-47e8-b6fc-010861768e6d)
+
