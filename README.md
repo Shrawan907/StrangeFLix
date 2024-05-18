@@ -4,13 +4,11 @@ Project Abstract
 Team - Spiders
 Members -
 
+Shrawan Kumar Choudhary     20184057
 Abhay Katheria               20184021
 Om Singh                       20185092
-Shrawan Ku. Choudhary     20184057
+
 Project - Strange Flix
-
-
-
 Proposed Features
 
 Admin Panel
